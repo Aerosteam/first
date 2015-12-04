@@ -17,6 +17,9 @@ public class VC {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        // add a comment
+        System.out.println("Hello, World!") ;
+        System.out.println( "another line") ;
     }
     
 }
