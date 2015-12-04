@@ -19,7 +19,8 @@ public class VC {
         // TODO code application logic here
         // add a comment
         System.out.println("Hello, World!") ;
-        System.out.println( "another line") ;
+        System.out.println("another line") ;
+        System.out.println("yet another line") ;
     }
     
 }
